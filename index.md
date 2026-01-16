@@ -30,6 +30,8 @@ Here are the links for the CS Capstone II projects for Spring 2025:
 
 ## News
 
+* 1-23: [Assignment 1](assign/assign01.html) due **by noon**. Upload a **pdf** to Canvas.
+
 * 1-12: Welcome back to Kinsley Engineering Center and CS402 - where your academic endeavors converge (and/or collide) with the real world.  And where you will continue to discover just how "pesky" real world clients can be... :-)
 
 * 1-12: All students in CS402 will be meeting on the first day of class (Mon, 1-12) in KEC 119 to go over our expectations and requirements for the course.
