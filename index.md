@@ -17,9 +17,9 @@ This is the website for CS402 (CS Capstone II) Spring 2026 at [York College of P
 
 Here are the links for the CS Capstone II projects for Spring 2025:
 
-[RevMetrix Project Course Web Page](./projects/RevMetrix-Project/index.html).
-
 [ABET App Project Course Web Page](./projects/ABETApp-Project/index.html).
+
+[RevMetrix Project Course Web Page](./projects/RevMetrix-Project/index.html).
 
 [YCPHacks Project Course Web Page](./projects/YCPHacks-Project/index.html).
 
