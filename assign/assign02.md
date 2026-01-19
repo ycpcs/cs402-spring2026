@@ -5,7 +5,10 @@ title: Weekly Journals, Stand-Up Meetings, Demos
 ---
 
 **Due (see your project schedule):**
-- [RevMetrix Project Assignment Schedule](../projects/RevMetrix-Project/schedule.html)
+
+- [ABET App Assignment Schedule](ABETApp.html)
+- [RevMetrix Project Assignment Schedule](RevMetrix.html)
+- [YCPHacks Assignment Schedule](YCPHacks.html)
 
 These are a mix of **Team** and **Individual** assignments.
 

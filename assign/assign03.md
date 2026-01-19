@@ -5,7 +5,10 @@ title: Detailed Project Proposal, Design, and Schedule
 ---
 
 **Due (see your project schedule):**
-- [RevMetrix Project Assignment Schedule](../projects/RevMetrix-Project/schedule.html)
+
+- [ABET App Assignment Schedule](ABETApp.html)
+- [RevMetrix Project Assignment Schedule](RevMetrix.html)
+- [YCPHacks Assignment Schedule](YCPHacks.html)
 
 This is a **Team** assignment. **Create your document in Google Docs so that team members can work collaboratively.**
 
