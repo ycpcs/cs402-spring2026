@@ -1,0 +1,51 @@
+---
+layout: default
+course_number: CS402
+title: Milestone 2 Presentation
+---
+
+**Due (see your project schedule):**
+- [RevMetrix Project Assignment Schedule](../projects/RevMetrix-Project/schedule.html)
+
+This is a **Team** assignment.
+
+--- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
+
+# Your Task
+
+Your task is to demonstrate your progress toward your goals for Milestone 2 that you established previously.
+
+--- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
+
+# The Presentation / Demonstration
+
+You will have at least 60 minutes to give you presentation/demonstration.  There will likely also be an extensive question and answer period.
+
+You should use presentation software such as PowerPoint or Google Slides. Your slides should contain brief bulleted points and graphics (tables, diagrams, screen captures, wire frames) that provide overall context for your bullet points. Slides should not be a "wall of text", and please avoid reading your slides or from a prepared script.
+
+Your presentation should include the following elements:
+
+- Provide a brief description of the project.
+- Provide an **updated** high-level overview of your system architecture (UML and DB Schema).
+- Explain what tools/technologies you are using, what role they play in your project development, and any changes you may have made since Milestone 1.
+- Explain what parts of your design are implemented, and which parts remain to be implemented by referencing your **updated** UML diagram(s) and Database Schema.
+- Walk through your UI (and/or internal workflow) and explain the use case functionality it demonstrates.
+- Discuss your automated test strategy, and run your unit tests to demonstrate your testing framework, and describe what is happening.
+- Briefly talk about how you plan to evolve the system to implement the remaining functionality.
+
+**Plan your demonstration carefully.** You need to convince us that you achieved your Milestone 2 goals.  Make sure your demonstration convinces us!
+
+**Please do a dry run before class.** Because of the limited amount of time we have in class, we can't wait for your team to troubleshoot issues that arise during the presentation..
+
+--- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
+
+# Grading
+
+You will be receiving **qualitative** rather than **quantitative** feedback for this assignment. Although you will **NOT** receive a numeric assessment, you can use the following rubric to prioritize your efforts:
+
+- Issue tracker is up-to-date with latest Use Cases and Issues: **10%**
+- Discussion of how this functionality is implemented in the underlying object model, including updated UML diagram(s) and Database Schema: **15%**
+- Important system functionality is demonstrated: **40%**
+- Demonstration of automated Unit Test framework: **10%**
+- Discussion of how system will be evolved to add remaining functionality: **10%**
+- Organization and quality of presentation: **15%**
