@@ -15,4 +15,4 @@ This is the assignment schedule for the Spring 2026 CS402 RevMetrix Project.
 [Assignment 5: Milestone 2](assign05.html)   | Wednesday, Mar 25th (in class): Milestone 2 Presentation
 [Assignment 6: Milestone 3](assign06.html)   | Wednesday, Apr 15th (in class): Milestone 3 Presentation
 [Assignment 7: Capstone Expo](assign07.html) | Thursday, Apr 23rd from 3:00p to 6:00p: Capstone Expo in KEC (with team pictures)
-[Assignment 8: Final Milestone Presentation](assign08.html)<br>Final Peer Evalutions <br> [Assignment 8: Final Technical Report](finalreport.html) | Wednesday, May 6th, 12:30pm to 2:30pm (KEC 119): Final Presentation<br>Thursday, May 7th by Noon: Final Peer Evals due<br>Thursday, May 7th by Noon: Final Technical Report due
+[Assignment 8: Final Milestone Presentation](assign08.html)<br>Final Peer Evalutions <br> [Assignment 8: Final Technical Report](finalreport.html) | Tuesday, April 28th, 5:30pm to 8:00pm (KEC 125): Final Presentation<br>Thursday, April 30th by Noon: Final Peer Evals due<br>Monday, May 4th by Noon: Final Technical Report due
